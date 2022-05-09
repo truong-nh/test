@@ -17,5 +17,6 @@
 
 		Line line2 = new Line(2, 3, 5, 4);
 		System.out.println(line2.getLength());
+                
 	}
 }
